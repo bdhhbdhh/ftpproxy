@@ -1,6 +1,6 @@
 # ftpproxy
 
-The ftp.proxy project (http://www.ftpproxy.org/)
+The ftp.proxy project http://www.ftpproxy.org/
 
 # expamle
 
