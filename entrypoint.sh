@@ -8,5 +8,4 @@ param="-b -D 21"
 
 param="$param $FTPSERVER"
 
-/usr/local/sbin/ftp.proxy $param
-wait $!
+/usr/local/sbin/ftp.proxy $param && tail -f /dev/null
